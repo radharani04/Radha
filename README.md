@@ -1,2 +1,3 @@
 # Radha
 Capstone Project
+The dataset given is that of an E-commerce company that is facing strong competition to retain its customers. The company doesn’t want to lose its customers and hence wants to predict the potential churners and provide them with various offers. So, objective of the present study is to develop a churn prediction model for the E-commerce company, segment the customers, find out the potential churners and provide business recommendations & suggest promotional offers. ![image](https://user-images.githubusercontent.com/19162132/187015222-cdf9596a-30e2-451a-b0da-472b58d76953.png)
