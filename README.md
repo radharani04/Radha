@@ -1,4 +1,4 @@
 # Radha
-Capstone Project
+1. Capstone Project
 
-Wine Sales Prediction
+2. Wine Sales Prediction
